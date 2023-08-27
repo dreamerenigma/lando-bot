@@ -1,4 +1,9 @@
-[<p align="center">![Header](https://i.ibb.co/ZXmC8s8/lando.png)](https://www.youtube.com/channel/UC-LXe9myi8QXh2M5UYNl1oQ)</p>
+<p align="center">
+  <a href="https://discord.com/oauth2/authorize?client_id=1143404613219913779&permissions=8&scope=bot">
+    <img src="https://i.ibb.co/qCtQtsm/lando128x128.png" alt="Описание изображения">
+  </a>
+</p>
+
 # lando-bot
 ### Lando Support Bot for Discord in Python, copy the link and paste it into your browser. Note all links below👇
 
@@ -21,4 +26,4 @@ You can also type !help category for more info on a category.
 ### Links:
  - [Discord bot - Lando](https://discord.com/oauth2/authorize?client_id=1143404613219913779&permissions=8&scope=bot)🤖
  - [Input Studios](https://inputstudios.ru)🌐
- - [Vkontakte](https://vk.com/inputstudios)👥
+ - [Community Input Studios](https://vk.com/inputstudios)👥
