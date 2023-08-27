@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://discord.com/oauth2/authorize?client_id=1143404613219913779&permissions=8&scope=bot" target="_blank">
+  <a href="https://discord.com/oauth2/authorize?client_id=1143404613219913779&permissions=8&scope=bot">
     <img src="https://i.ibb.co/qCtQtsm/lando128x128.png" alt="Описание изображения">
   </a>
 </p>
