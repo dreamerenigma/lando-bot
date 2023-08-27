@@ -5,7 +5,7 @@
 </p>
 
 # lando-bot
-### Lando Support Bot for Discord in Python, copy the link and paste it into your browser. Note all links below👇
+### Lando Support Bot for Discord in Python, copy the link and paste it into your browser. Note all links below👇 or click on the bot image☝️
 
 Service commands:
 
