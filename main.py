@@ -6,6 +6,7 @@ from config import DISCORD_TOKEN
 import os
 import time
 import youtube_dl
+import keep_alive
 
 from db import DataBase
 from ban_words import *
@@ -274,4 +275,5 @@ async def stop(ctx):
     voice = discord.utils.get(bot.voice_clients, guild=server)
     voice.stop()
 
+keep_alive.keep_alive()
 bot.run(DISCORD_TOKEN)
